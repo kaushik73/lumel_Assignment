@@ -1,3 +1,3 @@
-![alt text](lumelAssignment/image.png)
+# Deployed link : <a>lumel-assignment.vercel.app</a>
 
-Deployed link : lumel-assignment.vercel.app
+![alt text](lumelAssignment/image.png)
